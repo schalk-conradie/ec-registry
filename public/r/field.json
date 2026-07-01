@@ -7,9 +7,10 @@
     "class-variance-authority@^0.7.1"
   ],
   "registryDependencies": [
-    "label",
-    "separator",
-    "utils"
+    "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+    "https://schalk-conradie.github.io/ec-registry/r/label.json",
+    "https://schalk-conradie.github.io/ec-registry/r/separator.json",
+    "https://schalk-conradie.github.io/ec-registry/r/utils.json"
   ],
   "files": [
     {

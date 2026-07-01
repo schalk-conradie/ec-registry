@@ -8,8 +8,9 @@
     "lucide-react@^1.22.0"
   ],
   "registryDependencies": [
-    "button",
-    "utils"
+    "https://schalk-conradie.github.io/ec-registry/r/button.json",
+    "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+    "https://schalk-conradie.github.io/ec-registry/r/utils.json"
   ],
   "files": [
     {

@@ -9,14 +9,15 @@
     "radix-ui@^1.6.0"
   ],
   "registryDependencies": [
-    "button",
-    "input",
-    "separator",
-    "sheet",
-    "skeleton",
-    "tooltip",
-    "use-mobile",
-    "utils"
+    "https://schalk-conradie.github.io/ec-registry/r/button.json",
+    "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+    "https://schalk-conradie.github.io/ec-registry/r/input.json",
+    "https://schalk-conradie.github.io/ec-registry/r/separator.json",
+    "https://schalk-conradie.github.io/ec-registry/r/sheet.json",
+    "https://schalk-conradie.github.io/ec-registry/r/skeleton.json",
+    "https://schalk-conradie.github.io/ec-registry/r/tooltip.json",
+    "https://schalk-conradie.github.io/ec-registry/r/use-mobile.json",
+    "https://schalk-conradie.github.io/ec-registry/r/utils.json"
   ],
   "files": [
     {

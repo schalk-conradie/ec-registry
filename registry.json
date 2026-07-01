@@ -5,6 +5,7 @@
   "include": [
     "src/lib/registry.json",
     "src/hooks/registry.json",
+    "src/theme/registry.json",
     "src/components/ui/registry.json"
   ]
 }

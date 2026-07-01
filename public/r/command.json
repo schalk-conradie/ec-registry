@@ -8,9 +8,10 @@
     "lucide-react@^1.22.0"
   ],
   "registryDependencies": [
-    "dialog",
-    "input-group",
-    "utils"
+    "https://schalk-conradie.github.io/ec-registry/r/dialog.json",
+    "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+    "https://schalk-conradie.github.io/ec-registry/r/input-group.json",
+    "https://schalk-conradie.github.io/ec-registry/r/utils.json"
   ],
   "files": [
     {

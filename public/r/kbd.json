@@ -4,7 +4,8 @@
   "title": "Kbd",
   "description": "EC Kbd component.",
   "registryDependencies": [
-    "utils"
+    "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+    "https://schalk-conradie.github.io/ec-registry/r/utils.json"
   ],
   "files": [
     {

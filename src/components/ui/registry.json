@@ -18,7 +18,8 @@
         "radix-ui@^1.6.0"
       ],
       "registryDependencies": [
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -37,8 +38,9 @@
         "radix-ui@^1.6.0"
       ],
       "registryDependencies": [
-        "button",
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/button.json",
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -57,7 +59,8 @@
         "class-variance-authority@^0.7.1"
       ],
       "registryDependencies": [
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -74,6 +77,9 @@
       ],
       "dependencies": [
         "radix-ui@^1.6.0"
+      ],
+      "registryDependencies": [
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json"
       ]
     },
     {
@@ -93,8 +99,9 @@
         "radix-ui@^1.6.0"
       ],
       "registryDependencies": [
-        "button",
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/button.json",
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -113,7 +120,8 @@
         "radix-ui@^1.6.0"
       ],
       "registryDependencies": [
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -133,7 +141,8 @@
         "radix-ui@^1.6.0"
       ],
       "registryDependencies": [
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -153,7 +162,8 @@
         "radix-ui@^1.6.0"
       ],
       "registryDependencies": [
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -173,7 +183,8 @@
         "radix-ui@^1.6.0"
       ],
       "registryDependencies": [
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -193,8 +204,9 @@
         "radix-ui@^1.6.0"
       ],
       "registryDependencies": [
-        "separator",
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/separator.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -214,7 +226,8 @@
         "radix-ui@^1.6.0"
       ],
       "registryDependencies": [
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -234,8 +247,9 @@
         "react-day-picker@^10.0.1"
       ],
       "registryDependencies": [
-        "button",
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/button.json",
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -251,7 +265,8 @@
         }
       ],
       "registryDependencies": [
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -271,8 +286,9 @@
         "lucide-react@^1.22.0"
       ],
       "registryDependencies": [
-        "button",
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/button.json",
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -291,7 +307,8 @@
         "recharts@^3.8.0"
       ],
       "registryDependencies": [
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -311,7 +328,8 @@
         "radix-ui@^1.6.0"
       ],
       "registryDependencies": [
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -328,6 +346,9 @@
       ],
       "dependencies": [
         "radix-ui@^1.6.0"
+      ],
+      "registryDependencies": [
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json"
       ]
     },
     {
@@ -347,9 +368,10 @@
         "lucide-react@^1.22.0"
       ],
       "registryDependencies": [
-        "button",
-        "input-group",
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/button.json",
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/input-group.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -369,9 +391,10 @@
         "lucide-react@^1.22.0"
       ],
       "registryDependencies": [
-        "dialog",
-        "input-group",
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/dialog.json",
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/input-group.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -391,7 +414,8 @@
         "radix-ui@^1.6.0"
       ],
       "registryDependencies": [
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -411,8 +435,9 @@
         "radix-ui@^1.6.0"
       ],
       "registryDependencies": [
-        "button",
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/button.json",
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -429,6 +454,9 @@
       ],
       "dependencies": [
         "radix-ui@^1.6.0"
+      ],
+      "registryDependencies": [
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json"
       ]
     },
     {
@@ -447,7 +475,8 @@
         "vaul@^1.1.2"
       ],
       "registryDependencies": [
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -467,7 +496,8 @@
         "radix-ui@^1.6.0"
       ],
       "registryDependencies": [
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -486,7 +516,8 @@
         "class-variance-authority@^0.7.1"
       ],
       "registryDependencies": [
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -505,9 +536,10 @@
         "class-variance-authority@^0.7.1"
       ],
       "registryDependencies": [
-        "label",
-        "separator",
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/label.json",
+        "https://schalk-conradie.github.io/ec-registry/r/separator.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -526,7 +558,8 @@
         "radix-ui@^1.6.0"
       ],
       "registryDependencies": [
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -545,10 +578,11 @@
         "class-variance-authority@^0.7.1"
       ],
       "registryDependencies": [
-        "button",
-        "input",
-        "textarea",
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/button.json",
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/input.json",
+        "https://schalk-conradie.github.io/ec-registry/r/textarea.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -568,7 +602,8 @@
         "lucide-react@^1.22.0"
       ],
       "registryDependencies": [
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -584,7 +619,8 @@
         }
       ],
       "registryDependencies": [
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -604,8 +640,9 @@
         "radix-ui@^1.6.0"
       ],
       "registryDependencies": [
-        "separator",
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/separator.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -621,7 +658,8 @@
         }
       ],
       "registryDependencies": [
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -640,7 +678,8 @@
         "radix-ui@^1.6.0"
       ],
       "registryDependencies": [
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -660,7 +699,8 @@
         "radix-ui@^1.6.0"
       ],
       "registryDependencies": [
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -680,7 +720,8 @@
         "radix-ui@^1.6.0"
       ],
       "registryDependencies": [
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -700,8 +741,9 @@
         "lucide-react@^1.22.0"
       ],
       "registryDependencies": [
-        "button",
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/button.json",
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -717,7 +759,8 @@
         }
       ],
       "registryDependencies": [
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -736,7 +779,8 @@
         "lucide-react@^1.22.0"
       ],
       "registryDependencies": [
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -757,7 +801,8 @@
         "radix-ui@^1.6.0"
       ],
       "registryDependencies": [
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -776,8 +821,9 @@
         "lucide-react@^1.22.0"
       ],
       "registryDependencies": [
-        "button",
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/button.json",
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -796,7 +842,8 @@
         "radix-ui@^1.6.0"
       ],
       "registryDependencies": [
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -815,7 +862,8 @@
         "radix-ui@^1.6.0"
       ],
       "registryDependencies": [
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -834,7 +882,8 @@
         "radix-ui@^1.6.0"
       ],
       "registryDependencies": [
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -853,7 +902,8 @@
         "react-resizable-panels@^4.12.0"
       ],
       "registryDependencies": [
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -872,7 +922,8 @@
         "radix-ui@^1.6.0"
       ],
       "registryDependencies": [
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -892,7 +943,8 @@
         "radix-ui@^1.6.0"
       ],
       "registryDependencies": [
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -911,7 +963,8 @@
         "radix-ui@^1.6.0"
       ],
       "registryDependencies": [
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -931,8 +984,9 @@
         "radix-ui@^1.6.0"
       ],
       "registryDependencies": [
-        "button",
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/button.json",
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -953,14 +1007,15 @@
         "radix-ui@^1.6.0"
       ],
       "registryDependencies": [
-        "button",
-        "input",
-        "separator",
-        "sheet",
-        "skeleton",
-        "tooltip",
-        "use-mobile",
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/button.json",
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/input.json",
+        "https://schalk-conradie.github.io/ec-registry/r/separator.json",
+        "https://schalk-conradie.github.io/ec-registry/r/sheet.json",
+        "https://schalk-conradie.github.io/ec-registry/r/skeleton.json",
+        "https://schalk-conradie.github.io/ec-registry/r/tooltip.json",
+        "https://schalk-conradie.github.io/ec-registry/r/use-mobile.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -976,7 +1031,8 @@
         }
       ],
       "registryDependencies": [
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -995,7 +1051,8 @@
         "radix-ui@^1.6.0"
       ],
       "registryDependencies": [
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -1014,6 +1071,9 @@
         "lucide-react@^1.22.0",
         "next-themes@^0.4.6",
         "sonner@^2.0.7"
+      ],
+      "registryDependencies": [
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json"
       ]
     },
     {
@@ -1032,7 +1092,8 @@
         "lucide-react@^1.22.0"
       ],
       "registryDependencies": [
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -1051,7 +1112,8 @@
         "radix-ui@^1.6.0"
       ],
       "registryDependencies": [
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -1067,7 +1129,8 @@
         }
       ],
       "registryDependencies": [
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -1087,7 +1150,8 @@
         "radix-ui@^1.6.0"
       ],
       "registryDependencies": [
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -1103,7 +1167,8 @@
         }
       ],
       "registryDependencies": [
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -1123,8 +1188,9 @@
         "radix-ui@^1.6.0"
       ],
       "registryDependencies": [
-        "toggle",
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/toggle.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -1144,7 +1210,8 @@
         "radix-ui@^1.6.0"
       ],
       "registryDependencies": [
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     },
     {
@@ -1163,7 +1230,8 @@
         "radix-ui@^1.6.0"
       ],
       "registryDependencies": [
-        "utils"
+        "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+        "https://schalk-conradie.github.io/ec-registry/r/utils.json"
       ]
     }
   ]

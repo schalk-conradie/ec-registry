@@ -8,9 +8,10 @@
     "lucide-react@^1.22.0"
   ],
   "registryDependencies": [
-    "button",
-    "input-group",
-    "utils"
+    "https://schalk-conradie.github.io/ec-registry/r/button.json",
+    "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json",
+    "https://schalk-conradie.github.io/ec-registry/r/input-group.json",
+    "https://schalk-conradie.github.io/ec-registry/r/utils.json"
   ],
   "files": [
     {

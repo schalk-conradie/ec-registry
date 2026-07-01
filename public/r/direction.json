@@ -6,6 +6,9 @@
   "dependencies": [
     "radix-ui@^1.6.0"
   ],
+  "registryDependencies": [
+    "https://schalk-conradie.github.io/ec-registry/r/ec-theme.json"
+  ],
   "files": [
     {
       "path": "src/components/ui/direction.tsx",

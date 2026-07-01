@@ -13,6 +13,8 @@ src/
   hooks/
     registry.json
     use-mobile.ts
+  theme/
+    registry.json
   lib/
     registry.json
     utils.ts
@@ -35,6 +37,9 @@ npm run build:all
 ```
 
 `npm run build:registry` writes static registry JSON to `public/r`.
+
+UI components depend on the `ec-theme` registry item so shadcn installs the
+required EC Tailwind theme tokens and base styles with component installs.
 
 ## Local Registry Test
 

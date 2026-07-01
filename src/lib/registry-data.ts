@@ -1,6 +1,7 @@
 import uiRegistryRaw from "@/components/ui/registry.json?raw"
 import hooksRegistryRaw from "@/hooks/registry.json?raw"
 import libRegistryRaw from "@/lib/registry.json?raw"
+import themeRegistryRaw from "@/theme/registry.json?raw"
 
 export type RegistryFile = {
   path: string
@@ -35,9 +36,14 @@ export type ComponentCatalogGroup = Omit<ComponentGroup, "names"> & {
 const uiRegistry = JSON.parse(uiRegistryRaw) as Registry
 const hooksRegistry = JSON.parse(hooksRegistryRaw) as Registry
 const libRegistry = JSON.parse(libRegistryRaw) as Registry
+const themeRegistry = JSON.parse(themeRegistryRaw) as Registry
 
 export const componentItems = uiRegistry.items
-export const supportItems = [...libRegistry.items, ...hooksRegistry.items]
+export const supportItems = [
+  ...libRegistry.items,
+  ...hooksRegistry.items,
+  ...themeRegistry.items,
+]
 export const registryItems = [...componentItems, ...supportItems]
 export const componentNames = componentItems.map((item) => item.name)
 
