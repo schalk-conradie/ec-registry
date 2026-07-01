@@ -1,0 +1,10 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry.json",
+  "name": "ec-registry",
+  "homepage": "https://schalk-conradie.github.io/ec-registry",
+  "include": [
+    "src/lib/registry.json",
+    "src/hooks/registry.json",
+    "src/components/ui/registry.json"
+  ]
+}

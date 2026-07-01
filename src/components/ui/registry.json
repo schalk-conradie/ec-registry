@@ -1,0 +1,1170 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry.json",
+  "items": [
+    {
+      "name": "accordion",
+      "type": "registry:ui",
+      "title": "Accordion",
+      "description": "EC Accordion component.",
+      "files": [
+        {
+          "path": "accordion.tsx",
+          "type": "registry:ui",
+          "target": "@ui/accordion.tsx"
+        }
+      ],
+      "dependencies": [
+        "lucide-react@^1.22.0",
+        "radix-ui@^1.6.0"
+      ],
+      "registryDependencies": [
+        "utils"
+      ]
+    },
+    {
+      "name": "alert-dialog",
+      "type": "registry:ui",
+      "title": "Alert Dialog",
+      "description": "EC Alert Dialog component.",
+      "files": [
+        {
+          "path": "alert-dialog.tsx",
+          "type": "registry:ui",
+          "target": "@ui/alert-dialog.tsx"
+        }
+      ],
+      "dependencies": [
+        "radix-ui@^1.6.0"
+      ],
+      "registryDependencies": [
+        "button",
+        "utils"
+      ]
+    },
+    {
+      "name": "alert",
+      "type": "registry:ui",
+      "title": "Alert",
+      "description": "EC Alert component.",
+      "files": [
+        {
+          "path": "alert.tsx",
+          "type": "registry:ui",
+          "target": "@ui/alert.tsx"
+        }
+      ],
+      "dependencies": [
+        "class-variance-authority@^0.7.1"
+      ],
+      "registryDependencies": [
+        "utils"
+      ]
+    },
+    {
+      "name": "aspect-ratio",
+      "type": "registry:ui",
+      "title": "Aspect Ratio",
+      "description": "EC Aspect Ratio component.",
+      "files": [
+        {
+          "path": "aspect-ratio.tsx",
+          "type": "registry:ui",
+          "target": "@ui/aspect-ratio.tsx"
+        }
+      ],
+      "dependencies": [
+        "radix-ui@^1.6.0"
+      ]
+    },
+    {
+      "name": "attachment",
+      "type": "registry:ui",
+      "title": "Attachment",
+      "description": "EC Attachment component.",
+      "files": [
+        {
+          "path": "attachment.tsx",
+          "type": "registry:ui",
+          "target": "@ui/attachment.tsx"
+        }
+      ],
+      "dependencies": [
+        "class-variance-authority@^0.7.1",
+        "radix-ui@^1.6.0"
+      ],
+      "registryDependencies": [
+        "button",
+        "utils"
+      ]
+    },
+    {
+      "name": "avatar",
+      "type": "registry:ui",
+      "title": "Avatar",
+      "description": "EC Avatar component.",
+      "files": [
+        {
+          "path": "avatar.tsx",
+          "type": "registry:ui",
+          "target": "@ui/avatar.tsx"
+        }
+      ],
+      "dependencies": [
+        "radix-ui@^1.6.0"
+      ],
+      "registryDependencies": [
+        "utils"
+      ]
+    },
+    {
+      "name": "badge",
+      "type": "registry:ui",
+      "title": "Badge",
+      "description": "EC Badge component.",
+      "files": [
+        {
+          "path": "badge.tsx",
+          "type": "registry:ui",
+          "target": "@ui/badge.tsx"
+        }
+      ],
+      "dependencies": [
+        "class-variance-authority@^0.7.1",
+        "radix-ui@^1.6.0"
+      ],
+      "registryDependencies": [
+        "utils"
+      ]
+    },
+    {
+      "name": "breadcrumb",
+      "type": "registry:ui",
+      "title": "Breadcrumb",
+      "description": "EC Breadcrumb component.",
+      "files": [
+        {
+          "path": "breadcrumb.tsx",
+          "type": "registry:ui",
+          "target": "@ui/breadcrumb.tsx"
+        }
+      ],
+      "dependencies": [
+        "lucide-react@^1.22.0",
+        "radix-ui@^1.6.0"
+      ],
+      "registryDependencies": [
+        "utils"
+      ]
+    },
+    {
+      "name": "bubble",
+      "type": "registry:ui",
+      "title": "Bubble",
+      "description": "EC Bubble component.",
+      "files": [
+        {
+          "path": "bubble.tsx",
+          "type": "registry:ui",
+          "target": "@ui/bubble.tsx"
+        }
+      ],
+      "dependencies": [
+        "class-variance-authority@^0.7.1",
+        "radix-ui@^1.6.0"
+      ],
+      "registryDependencies": [
+        "utils"
+      ]
+    },
+    {
+      "name": "button-group",
+      "type": "registry:ui",
+      "title": "Button Group",
+      "description": "EC Button Group component.",
+      "files": [
+        {
+          "path": "button-group.tsx",
+          "type": "registry:ui",
+          "target": "@ui/button-group.tsx"
+        }
+      ],
+      "dependencies": [
+        "class-variance-authority@^0.7.1",
+        "radix-ui@^1.6.0"
+      ],
+      "registryDependencies": [
+        "separator",
+        "utils"
+      ]
+    },
+    {
+      "name": "button",
+      "type": "registry:ui",
+      "title": "Button",
+      "description": "EC Button component.",
+      "files": [
+        {
+          "path": "button.tsx",
+          "type": "registry:ui",
+          "target": "@ui/button.tsx"
+        }
+      ],
+      "dependencies": [
+        "class-variance-authority@^0.7.1",
+        "radix-ui@^1.6.0"
+      ],
+      "registryDependencies": [
+        "utils"
+      ]
+    },
+    {
+      "name": "calendar",
+      "type": "registry:ui",
+      "title": "Calendar",
+      "description": "EC Calendar component.",
+      "files": [
+        {
+          "path": "calendar.tsx",
+          "type": "registry:ui",
+          "target": "@ui/calendar.tsx"
+        }
+      ],
+      "dependencies": [
+        "lucide-react@^1.22.0",
+        "react-day-picker@^10.0.1"
+      ],
+      "registryDependencies": [
+        "button",
+        "utils"
+      ]
+    },
+    {
+      "name": "card",
+      "type": "registry:ui",
+      "title": "Card",
+      "description": "EC Card component.",
+      "files": [
+        {
+          "path": "card.tsx",
+          "type": "registry:ui",
+          "target": "@ui/card.tsx"
+        }
+      ],
+      "registryDependencies": [
+        "utils"
+      ]
+    },
+    {
+      "name": "carousel",
+      "type": "registry:ui",
+      "title": "Carousel",
+      "description": "EC Carousel component.",
+      "files": [
+        {
+          "path": "carousel.tsx",
+          "type": "registry:ui",
+          "target": "@ui/carousel.tsx"
+        }
+      ],
+      "dependencies": [
+        "embla-carousel-react@^8.6.0",
+        "lucide-react@^1.22.0"
+      ],
+      "registryDependencies": [
+        "button",
+        "utils"
+      ]
+    },
+    {
+      "name": "chart",
+      "type": "registry:ui",
+      "title": "Chart",
+      "description": "EC Chart component.",
+      "files": [
+        {
+          "path": "chart.tsx",
+          "type": "registry:ui",
+          "target": "@ui/chart.tsx"
+        }
+      ],
+      "dependencies": [
+        "recharts@^3.8.0"
+      ],
+      "registryDependencies": [
+        "utils"
+      ]
+    },
+    {
+      "name": "checkbox",
+      "type": "registry:ui",
+      "title": "Checkbox",
+      "description": "EC Checkbox component.",
+      "files": [
+        {
+          "path": "checkbox.tsx",
+          "type": "registry:ui",
+          "target": "@ui/checkbox.tsx"
+        }
+      ],
+      "dependencies": [
+        "lucide-react@^1.22.0",
+        "radix-ui@^1.6.0"
+      ],
+      "registryDependencies": [
+        "utils"
+      ]
+    },
+    {
+      "name": "collapsible",
+      "type": "registry:ui",
+      "title": "Collapsible",
+      "description": "EC Collapsible component.",
+      "files": [
+        {
+          "path": "collapsible.tsx",
+          "type": "registry:ui",
+          "target": "@ui/collapsible.tsx"
+        }
+      ],
+      "dependencies": [
+        "radix-ui@^1.6.0"
+      ]
+    },
+    {
+      "name": "combobox",
+      "type": "registry:ui",
+      "title": "Combobox",
+      "description": "EC Combobox component.",
+      "files": [
+        {
+          "path": "combobox.tsx",
+          "type": "registry:ui",
+          "target": "@ui/combobox.tsx"
+        }
+      ],
+      "dependencies": [
+        "@base-ui/react@^1.6.0",
+        "lucide-react@^1.22.0"
+      ],
+      "registryDependencies": [
+        "button",
+        "input-group",
+        "utils"
+      ]
+    },
+    {
+      "name": "command",
+      "type": "registry:ui",
+      "title": "Command",
+      "description": "EC Command component.",
+      "files": [
+        {
+          "path": "command.tsx",
+          "type": "registry:ui",
+          "target": "@ui/command.tsx"
+        }
+      ],
+      "dependencies": [
+        "cmdk@^1.1.1",
+        "lucide-react@^1.22.0"
+      ],
+      "registryDependencies": [
+        "dialog",
+        "input-group",
+        "utils"
+      ]
+    },
+    {
+      "name": "context-menu",
+      "type": "registry:ui",
+      "title": "Context Menu",
+      "description": "EC Context Menu component.",
+      "files": [
+        {
+          "path": "context-menu.tsx",
+          "type": "registry:ui",
+          "target": "@ui/context-menu.tsx"
+        }
+      ],
+      "dependencies": [
+        "lucide-react@^1.22.0",
+        "radix-ui@^1.6.0"
+      ],
+      "registryDependencies": [
+        "utils"
+      ]
+    },
+    {
+      "name": "dialog",
+      "type": "registry:ui",
+      "title": "Dialog",
+      "description": "EC Dialog component.",
+      "files": [
+        {
+          "path": "dialog.tsx",
+          "type": "registry:ui",
+          "target": "@ui/dialog.tsx"
+        }
+      ],
+      "dependencies": [
+        "lucide-react@^1.22.0",
+        "radix-ui@^1.6.0"
+      ],
+      "registryDependencies": [
+        "button",
+        "utils"
+      ]
+    },
+    {
+      "name": "direction",
+      "type": "registry:ui",
+      "title": "Direction",
+      "description": "EC Direction component.",
+      "files": [
+        {
+          "path": "direction.tsx",
+          "type": "registry:ui",
+          "target": "@ui/direction.tsx"
+        }
+      ],
+      "dependencies": [
+        "radix-ui@^1.6.0"
+      ]
+    },
+    {
+      "name": "drawer",
+      "type": "registry:ui",
+      "title": "Drawer",
+      "description": "EC Drawer component.",
+      "files": [
+        {
+          "path": "drawer.tsx",
+          "type": "registry:ui",
+          "target": "@ui/drawer.tsx"
+        }
+      ],
+      "dependencies": [
+        "vaul@^1.1.2"
+      ],
+      "registryDependencies": [
+        "utils"
+      ]
+    },
+    {
+      "name": "dropdown-menu",
+      "type": "registry:ui",
+      "title": "Dropdown Menu",
+      "description": "EC Dropdown Menu component.",
+      "files": [
+        {
+          "path": "dropdown-menu.tsx",
+          "type": "registry:ui",
+          "target": "@ui/dropdown-menu.tsx"
+        }
+      ],
+      "dependencies": [
+        "lucide-react@^1.22.0",
+        "radix-ui@^1.6.0"
+      ],
+      "registryDependencies": [
+        "utils"
+      ]
+    },
+    {
+      "name": "empty",
+      "type": "registry:ui",
+      "title": "Empty",
+      "description": "EC Empty component.",
+      "files": [
+        {
+          "path": "empty.tsx",
+          "type": "registry:ui",
+          "target": "@ui/empty.tsx"
+        }
+      ],
+      "dependencies": [
+        "class-variance-authority@^0.7.1"
+      ],
+      "registryDependencies": [
+        "utils"
+      ]
+    },
+    {
+      "name": "field",
+      "type": "registry:ui",
+      "title": "Field",
+      "description": "EC Field component.",
+      "files": [
+        {
+          "path": "field.tsx",
+          "type": "registry:ui",
+          "target": "@ui/field.tsx"
+        }
+      ],
+      "dependencies": [
+        "class-variance-authority@^0.7.1"
+      ],
+      "registryDependencies": [
+        "label",
+        "separator",
+        "utils"
+      ]
+    },
+    {
+      "name": "hover-card",
+      "type": "registry:ui",
+      "title": "Hover Card",
+      "description": "EC Hover Card component.",
+      "files": [
+        {
+          "path": "hover-card.tsx",
+          "type": "registry:ui",
+          "target": "@ui/hover-card.tsx"
+        }
+      ],
+      "dependencies": [
+        "radix-ui@^1.6.0"
+      ],
+      "registryDependencies": [
+        "utils"
+      ]
+    },
+    {
+      "name": "input-group",
+      "type": "registry:ui",
+      "title": "Input Group",
+      "description": "EC Input Group component.",
+      "files": [
+        {
+          "path": "input-group.tsx",
+          "type": "registry:ui",
+          "target": "@ui/input-group.tsx"
+        }
+      ],
+      "dependencies": [
+        "class-variance-authority@^0.7.1"
+      ],
+      "registryDependencies": [
+        "button",
+        "input",
+        "textarea",
+        "utils"
+      ]
+    },
+    {
+      "name": "input-otp",
+      "type": "registry:ui",
+      "title": "Input OTP",
+      "description": "EC Input OTP component.",
+      "files": [
+        {
+          "path": "input-otp.tsx",
+          "type": "registry:ui",
+          "target": "@ui/input-otp.tsx"
+        }
+      ],
+      "dependencies": [
+        "input-otp@^1.4.2",
+        "lucide-react@^1.22.0"
+      ],
+      "registryDependencies": [
+        "utils"
+      ]
+    },
+    {
+      "name": "input",
+      "type": "registry:ui",
+      "title": "Input",
+      "description": "EC Input component.",
+      "files": [
+        {
+          "path": "input.tsx",
+          "type": "registry:ui",
+          "target": "@ui/input.tsx"
+        }
+      ],
+      "registryDependencies": [
+        "utils"
+      ]
+    },
+    {
+      "name": "item",
+      "type": "registry:ui",
+      "title": "Item",
+      "description": "EC Item component.",
+      "files": [
+        {
+          "path": "item.tsx",
+          "type": "registry:ui",
+          "target": "@ui/item.tsx"
+        }
+      ],
+      "dependencies": [
+        "class-variance-authority@^0.7.1",
+        "radix-ui@^1.6.0"
+      ],
+      "registryDependencies": [
+        "separator",
+        "utils"
+      ]
+    },
+    {
+      "name": "kbd",
+      "type": "registry:ui",
+      "title": "Kbd",
+      "description": "EC Kbd component.",
+      "files": [
+        {
+          "path": "kbd.tsx",
+          "type": "registry:ui",
+          "target": "@ui/kbd.tsx"
+        }
+      ],
+      "registryDependencies": [
+        "utils"
+      ]
+    },
+    {
+      "name": "label",
+      "type": "registry:ui",
+      "title": "Label",
+      "description": "EC Label component.",
+      "files": [
+        {
+          "path": "label.tsx",
+          "type": "registry:ui",
+          "target": "@ui/label.tsx"
+        }
+      ],
+      "dependencies": [
+        "radix-ui@^1.6.0"
+      ],
+      "registryDependencies": [
+        "utils"
+      ]
+    },
+    {
+      "name": "marker",
+      "type": "registry:ui",
+      "title": "Marker",
+      "description": "EC Marker component.",
+      "files": [
+        {
+          "path": "marker.tsx",
+          "type": "registry:ui",
+          "target": "@ui/marker.tsx"
+        }
+      ],
+      "dependencies": [
+        "class-variance-authority@^0.7.1",
+        "radix-ui@^1.6.0"
+      ],
+      "registryDependencies": [
+        "utils"
+      ]
+    },
+    {
+      "name": "menubar",
+      "type": "registry:ui",
+      "title": "Menubar",
+      "description": "EC Menubar component.",
+      "files": [
+        {
+          "path": "menubar.tsx",
+          "type": "registry:ui",
+          "target": "@ui/menubar.tsx"
+        }
+      ],
+      "dependencies": [
+        "lucide-react@^1.22.0",
+        "radix-ui@^1.6.0"
+      ],
+      "registryDependencies": [
+        "utils"
+      ]
+    },
+    {
+      "name": "message-scroller",
+      "type": "registry:ui",
+      "title": "Message Scroller",
+      "description": "EC Message Scroller component.",
+      "files": [
+        {
+          "path": "message-scroller.tsx",
+          "type": "registry:ui",
+          "target": "@ui/message-scroller.tsx"
+        }
+      ],
+      "dependencies": [
+        "@shadcn/react@^0.2.0",
+        "lucide-react@^1.22.0"
+      ],
+      "registryDependencies": [
+        "button",
+        "utils"
+      ]
+    },
+    {
+      "name": "message",
+      "type": "registry:ui",
+      "title": "Message",
+      "description": "EC Message component.",
+      "files": [
+        {
+          "path": "message.tsx",
+          "type": "registry:ui",
+          "target": "@ui/message.tsx"
+        }
+      ],
+      "registryDependencies": [
+        "utils"
+      ]
+    },
+    {
+      "name": "native-select",
+      "type": "registry:ui",
+      "title": "Native Select",
+      "description": "EC Native Select component.",
+      "files": [
+        {
+          "path": "native-select.tsx",
+          "type": "registry:ui",
+          "target": "@ui/native-select.tsx"
+        }
+      ],
+      "dependencies": [
+        "lucide-react@^1.22.0"
+      ],
+      "registryDependencies": [
+        "utils"
+      ]
+    },
+    {
+      "name": "navigation-menu",
+      "type": "registry:ui",
+      "title": "Navigation Menu",
+      "description": "EC Navigation Menu component.",
+      "files": [
+        {
+          "path": "navigation-menu.tsx",
+          "type": "registry:ui",
+          "target": "@ui/navigation-menu.tsx"
+        }
+      ],
+      "dependencies": [
+        "class-variance-authority@^0.7.1",
+        "lucide-react@^1.22.0",
+        "radix-ui@^1.6.0"
+      ],
+      "registryDependencies": [
+        "utils"
+      ]
+    },
+    {
+      "name": "pagination",
+      "type": "registry:ui",
+      "title": "Pagination",
+      "description": "EC Pagination component.",
+      "files": [
+        {
+          "path": "pagination.tsx",
+          "type": "registry:ui",
+          "target": "@ui/pagination.tsx"
+        }
+      ],
+      "dependencies": [
+        "lucide-react@^1.22.0"
+      ],
+      "registryDependencies": [
+        "button",
+        "utils"
+      ]
+    },
+    {
+      "name": "popover",
+      "type": "registry:ui",
+      "title": "Popover",
+      "description": "EC Popover component.",
+      "files": [
+        {
+          "path": "popover.tsx",
+          "type": "registry:ui",
+          "target": "@ui/popover.tsx"
+        }
+      ],
+      "dependencies": [
+        "radix-ui@^1.6.0"
+      ],
+      "registryDependencies": [
+        "utils"
+      ]
+    },
+    {
+      "name": "progress",
+      "type": "registry:ui",
+      "title": "Progress",
+      "description": "EC Progress component.",
+      "files": [
+        {
+          "path": "progress.tsx",
+          "type": "registry:ui",
+          "target": "@ui/progress.tsx"
+        }
+      ],
+      "dependencies": [
+        "radix-ui@^1.6.0"
+      ],
+      "registryDependencies": [
+        "utils"
+      ]
+    },
+    {
+      "name": "radio-group",
+      "type": "registry:ui",
+      "title": "Radio Group",
+      "description": "EC Radio Group component.",
+      "files": [
+        {
+          "path": "radio-group.tsx",
+          "type": "registry:ui",
+          "target": "@ui/radio-group.tsx"
+        }
+      ],
+      "dependencies": [
+        "radix-ui@^1.6.0"
+      ],
+      "registryDependencies": [
+        "utils"
+      ]
+    },
+    {
+      "name": "resizable",
+      "type": "registry:ui",
+      "title": "Resizable",
+      "description": "EC Resizable component.",
+      "files": [
+        {
+          "path": "resizable.tsx",
+          "type": "registry:ui",
+          "target": "@ui/resizable.tsx"
+        }
+      ],
+      "dependencies": [
+        "react-resizable-panels@^4.12.0"
+      ],
+      "registryDependencies": [
+        "utils"
+      ]
+    },
+    {
+      "name": "scroll-area",
+      "type": "registry:ui",
+      "title": "Scroll Area",
+      "description": "EC Scroll Area component.",
+      "files": [
+        {
+          "path": "scroll-area.tsx",
+          "type": "registry:ui",
+          "target": "@ui/scroll-area.tsx"
+        }
+      ],
+      "dependencies": [
+        "radix-ui@^1.6.0"
+      ],
+      "registryDependencies": [
+        "utils"
+      ]
+    },
+    {
+      "name": "select",
+      "type": "registry:ui",
+      "title": "Select",
+      "description": "EC Select component.",
+      "files": [
+        {
+          "path": "select.tsx",
+          "type": "registry:ui",
+          "target": "@ui/select.tsx"
+        }
+      ],
+      "dependencies": [
+        "lucide-react@^1.22.0",
+        "radix-ui@^1.6.0"
+      ],
+      "registryDependencies": [
+        "utils"
+      ]
+    },
+    {
+      "name": "separator",
+      "type": "registry:ui",
+      "title": "Separator",
+      "description": "EC Separator component.",
+      "files": [
+        {
+          "path": "separator.tsx",
+          "type": "registry:ui",
+          "target": "@ui/separator.tsx"
+        }
+      ],
+      "dependencies": [
+        "radix-ui@^1.6.0"
+      ],
+      "registryDependencies": [
+        "utils"
+      ]
+    },
+    {
+      "name": "sheet",
+      "type": "registry:ui",
+      "title": "Sheet",
+      "description": "EC Sheet component.",
+      "files": [
+        {
+          "path": "sheet.tsx",
+          "type": "registry:ui",
+          "target": "@ui/sheet.tsx"
+        }
+      ],
+      "dependencies": [
+        "lucide-react@^1.22.0",
+        "radix-ui@^1.6.0"
+      ],
+      "registryDependencies": [
+        "button",
+        "utils"
+      ]
+    },
+    {
+      "name": "sidebar",
+      "type": "registry:ui",
+      "title": "Sidebar",
+      "description": "EC Sidebar component.",
+      "files": [
+        {
+          "path": "sidebar.tsx",
+          "type": "registry:ui",
+          "target": "@ui/sidebar.tsx"
+        }
+      ],
+      "dependencies": [
+        "class-variance-authority@^0.7.1",
+        "lucide-react@^1.22.0",
+        "radix-ui@^1.6.0"
+      ],
+      "registryDependencies": [
+        "button",
+        "input",
+        "separator",
+        "sheet",
+        "skeleton",
+        "tooltip",
+        "use-mobile",
+        "utils"
+      ]
+    },
+    {
+      "name": "skeleton",
+      "type": "registry:ui",
+      "title": "Skeleton",
+      "description": "EC Skeleton component.",
+      "files": [
+        {
+          "path": "skeleton.tsx",
+          "type": "registry:ui",
+          "target": "@ui/skeleton.tsx"
+        }
+      ],
+      "registryDependencies": [
+        "utils"
+      ]
+    },
+    {
+      "name": "slider",
+      "type": "registry:ui",
+      "title": "Slider",
+      "description": "EC Slider component.",
+      "files": [
+        {
+          "path": "slider.tsx",
+          "type": "registry:ui",
+          "target": "@ui/slider.tsx"
+        }
+      ],
+      "dependencies": [
+        "radix-ui@^1.6.0"
+      ],
+      "registryDependencies": [
+        "utils"
+      ]
+    },
+    {
+      "name": "sonner",
+      "type": "registry:ui",
+      "title": "Sonner",
+      "description": "EC Sonner component.",
+      "files": [
+        {
+          "path": "sonner.tsx",
+          "type": "registry:ui",
+          "target": "@ui/sonner.tsx"
+        }
+      ],
+      "dependencies": [
+        "lucide-react@^1.22.0",
+        "next-themes@^0.4.6",
+        "sonner@^2.0.7"
+      ]
+    },
+    {
+      "name": "spinner",
+      "type": "registry:ui",
+      "title": "Spinner",
+      "description": "EC Spinner component.",
+      "files": [
+        {
+          "path": "spinner.tsx",
+          "type": "registry:ui",
+          "target": "@ui/spinner.tsx"
+        }
+      ],
+      "dependencies": [
+        "lucide-react@^1.22.0"
+      ],
+      "registryDependencies": [
+        "utils"
+      ]
+    },
+    {
+      "name": "switch",
+      "type": "registry:ui",
+      "title": "Switch",
+      "description": "EC Switch component.",
+      "files": [
+        {
+          "path": "switch.tsx",
+          "type": "registry:ui",
+          "target": "@ui/switch.tsx"
+        }
+      ],
+      "dependencies": [
+        "radix-ui@^1.6.0"
+      ],
+      "registryDependencies": [
+        "utils"
+      ]
+    },
+    {
+      "name": "table",
+      "type": "registry:ui",
+      "title": "Table",
+      "description": "EC Table component.",
+      "files": [
+        {
+          "path": "table.tsx",
+          "type": "registry:ui",
+          "target": "@ui/table.tsx"
+        }
+      ],
+      "registryDependencies": [
+        "utils"
+      ]
+    },
+    {
+      "name": "tabs",
+      "type": "registry:ui",
+      "title": "Tabs",
+      "description": "EC Tabs component.",
+      "files": [
+        {
+          "path": "tabs.tsx",
+          "type": "registry:ui",
+          "target": "@ui/tabs.tsx"
+        }
+      ],
+      "dependencies": [
+        "class-variance-authority@^0.7.1",
+        "radix-ui@^1.6.0"
+      ],
+      "registryDependencies": [
+        "utils"
+      ]
+    },
+    {
+      "name": "textarea",
+      "type": "registry:ui",
+      "title": "Textarea",
+      "description": "EC Textarea component.",
+      "files": [
+        {
+          "path": "textarea.tsx",
+          "type": "registry:ui",
+          "target": "@ui/textarea.tsx"
+        }
+      ],
+      "registryDependencies": [
+        "utils"
+      ]
+    },
+    {
+      "name": "toggle-group",
+      "type": "registry:ui",
+      "title": "Toggle Group",
+      "description": "EC Toggle Group component.",
+      "files": [
+        {
+          "path": "toggle-group.tsx",
+          "type": "registry:ui",
+          "target": "@ui/toggle-group.tsx"
+        }
+      ],
+      "dependencies": [
+        "class-variance-authority@^0.7.1",
+        "radix-ui@^1.6.0"
+      ],
+      "registryDependencies": [
+        "toggle",
+        "utils"
+      ]
+    },
+    {
+      "name": "toggle",
+      "type": "registry:ui",
+      "title": "Toggle",
+      "description": "EC Toggle component.",
+      "files": [
+        {
+          "path": "toggle.tsx",
+          "type": "registry:ui",
+          "target": "@ui/toggle.tsx"
+        }
+      ],
+      "dependencies": [
+        "class-variance-authority@^0.7.1",
+        "radix-ui@^1.6.0"
+      ],
+      "registryDependencies": [
+        "utils"
+      ]
+    },
+    {
+      "name": "tooltip",
+      "type": "registry:ui",
+      "title": "Tooltip",
+      "description": "EC Tooltip component.",
+      "files": [
+        {
+          "path": "tooltip.tsx",
+          "type": "registry:ui",
+          "target": "@ui/tooltip.tsx"
+        }
+      ],
+      "dependencies": [
+        "radix-ui@^1.6.0"
+      ],
+      "registryDependencies": [
+        "utils"
+      ]
+    }
+  ]
+}
